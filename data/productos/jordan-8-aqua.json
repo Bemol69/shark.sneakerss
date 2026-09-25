@@ -5,7 +5,7 @@
   "descripcion": "Negro, gris y suela morado-aqua con parche de jumpman en colores.",
   "incluye": [],
   "etiqueta": "Más pedida",
-  "agotado": false,
-  "visible": true,
-  "orden": 10
+  "orden": 10,
+  "agotado": true,
+  "visible": true
 }
