@@ -1,0 +1,9 @@
+{
+  "nombre": "Jordan 3 y 5",
+  "orden": 30,
+  "visible": true,
+  "productos": [
+    "jordan-3-blanco-azul",
+    "jordan-5-negro-plata"
+  ]
+}

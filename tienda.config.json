@@ -1,0 +1,33 @@
+{
+  "_ayuda": "Datos fijos de la tienda (los define el desarrollador). Los datos de contacto y portada van en data/ajustes.json, que el cliente edita desde /admin.",
+  "nombre": "Shark Sneakerss",
+  "marca_a": "Shark",
+  "marca_b": "Sneakerss",
+  "rubro": "Zapatillas y ropa",
+  "schema_tipo": "ShoeStore",
+  "seo_titulo": "Zapatillas Jordan en Rancagua y Machalí | Shark Sneakerss",
+  "seo_descripcion": "Zapatillas y ropa en Rancagua y Machalí. Stock inmediato, todo medio de pago, encargos 24/7 y envíos a todo Chile. Pide por WhatsApp.",
+  "github_repo": "Bemol69/shark.sneakerss",
+  "site_url": "https://shark-sneakerss.vercel.app",
+  "google_verificacion": "",
+  "hero": [
+    { "foto": "img/hero/hero-1.jpg", "alt": "Air Jordan 8 Aqua sobre su caja" },
+    { "foto": "img/hero/hero-2.jpg", "alt": "Air Jordan 8 Aqua en mano" },
+    { "foto": "img/hero/hero-3.jpg", "alt": "Par de Air Jordan 8 Aqua sobre la lona Shark Snkrs" }
+  ],
+  "fuentes": { "titulos": "Barlow Condensed", "texto": "Inter" },
+  "colores": {
+    "fondo": "#090E14",
+    "primario": "#2E9BEA",
+    "primario_oscuro": "#1B78C2",
+    "primario_claro": "#12283B",
+    "secundario": "#5EC8C0",
+    "secundario_claro": "#0F2A2C",
+    "acento": "#7BE0D6",
+    "acento_claro": "#0F2B2A",
+    "tinta": "#EAF1F7",
+    "tinta_suave": "#93A4B5",
+    "extra": "#8B6CF0",
+    "dorado": "#E2B34A"
+  }
+}

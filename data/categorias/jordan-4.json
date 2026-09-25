@@ -1,0 +1,10 @@
+{
+  "nombre": "Jordan 4",
+  "orden": 10,
+  "visible": true,
+  "productos": [
+    "jordan-4-cool-grey",
+    "jordan-4-negro",
+    "jordan-4-gris-blanco"
+  ]
+}
